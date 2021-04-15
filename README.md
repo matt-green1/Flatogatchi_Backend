@@ -1,25 +1,5 @@
-# README
+## Flatogatchi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A virtual pet app inspired by 90's Tamagatchi toys. Users can create an account and adopt & name a monster. Once adopted, users can feed, pet/punish, and train their pet to alter its attributes and mood.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# FlatoGachi
+**See <a href="https://github.com/matt-green1/Flatogatchi_Frontend">front end Readme</a> for installation instructions and project details.
